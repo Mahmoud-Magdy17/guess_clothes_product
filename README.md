@@ -32,4 +32,4 @@ This Flutter application utilizes **TensorFlow Lite (TFLite)** to classify image
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/tflite-image-classification.git
+   git clone https://github.com/Mahmoud-Magdy17/guess_clothes_product.git
